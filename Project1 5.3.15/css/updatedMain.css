@@ -169,7 +169,7 @@ header {
 }*/
 
 /* Breakpoint 500px */
-@media screen and (max-width: 500px) {
+/*@media screen and (max-width: 500px) {
   .logo {
     width: 50px;
   }
@@ -196,4 +196,4 @@ header {
   .app-box.right {
     padding: 0 20px;
   }  
-}
+}*/
