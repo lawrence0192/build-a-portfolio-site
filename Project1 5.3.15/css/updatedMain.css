@@ -136,18 +136,4 @@ header {
   padding: 10px;
   margin: 0;
 }
-/* Breakpoint 750px */
-/*@media screen and (max-width: 750px) and (min-width: 651px){
-  .app-title {
-    font-size: 14px;
-  }
-}
 
-/* Breakpoint 650px */
-/*@media screen and (max-width: 650px) {
-}
-/* Breakpoint 500px */
-/*media screen and (max-width: 500px) {
-  .logo {
-    width: 50px;
-  }
