@@ -97,7 +97,7 @@ header {
 
 .app-box {
   float: left;
-  width:calc((100% - 80px)/3);
+  width:calc((100% - 80px)/3)
   margin: 0 20px 20px 0;
 }
 
