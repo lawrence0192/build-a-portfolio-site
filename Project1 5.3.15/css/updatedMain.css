@@ -137,63 +137,17 @@ header {
   margin: 0;
 }
 /* Breakpoint 750px */
-@media screen and (max-width: 750px) and (min-width: 651px){
+/*@media screen and (max-width: 750px) and (min-width: 651px){
   .app-title {
     font-size: 14px;
   }
 }
 
 /* Breakpoint 650px */
-@media screen and (max-width: 650px) {
-  /*.connect-title {
-    width: 100%;
-    padding-bottom: 0;
-  }*/
-  
- /* .connections-box {
-    width: 100%;
-    padding-top: 10px;
-  }
-  
-  .app-box.left {
-    width: 100%;
-   }
-    
-  .app-box.mid,  
-  .app-box.right  {
-    width: calc((100% - 60px)/2);
-   }
-  .app-box.mid {
-    margin-left: 20px;
-  }
-}*/
-
+/*@media screen and (max-width: 650px) {
+}
 /* Breakpoint 500px */
-/*@media screen and (max-width: 500px) {
+/*media screen and (max-width: 500px) {
   .logo {
     width: 50px;
   }
-
-  #name {
-    font-size: 36px;
-    line-height: 36px;
-  }
-  
-  .connect-title  {
-    font-size: 18px;
-  }
-
-  #title,
-  .connect-title {
-    font-size: 14px;
-  }
-  
-  .app-box.mid, 
-  .app-box.right   {
-    width: 100%;
-  }
-  
-  .app-box.right {
-    padding: 0 20px;
-  }  
-}*/
