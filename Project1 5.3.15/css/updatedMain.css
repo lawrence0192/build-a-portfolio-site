@@ -136,53 +136,6 @@ header {
   padding: 10px;
   margin: 0;
 }
-
-/* footer */
-
-/*footer {
-  background-color: #86b741;
-  color: white;
-  width: 100%;
-  margin: 20px 0;
-}
-
-.connect-title {
-  padding: 20px;
-  font: 18px Lato, Garamond, serif;
-  font-weight: 300;
-  text-transform: uppercase;
-  width: 33%;
-  display: inline-block;
-}
-
-.connections-box {
-  width: 60%;
-  padding: 20px 0;
-  display: inline-block;
-}
-
-.connection{
-  display: inline-block;
-  list-style-type: none;
-  text-align: center;
-  width: 19%;
-}
-
-.connection-link{
-  text-decoration: none;
-  font-size: 24px;
-}
-
-.c-icon{
-  font-style: normal;
-  color: #fff;
-  text-shadow: 2px 2px 2px #777;
-}
-
-.c-icon:hover{
-  color: #777;
-}*/
-
 /* Breakpoint 750px */
 @media screen and (max-width: 750px) and (min-width: 651px){
   .app-title {
@@ -192,12 +145,12 @@ header {
 
 /* Breakpoint 650px */
 @media screen and (max-width: 650px) {
-  .connect-title {
+  /*.connect-title {
     width: 100%;
     padding-bottom: 0;
-  }
+  }*/
   
-  .connections-box {
+ /* .connections-box {
     width: 100%;
     padding-top: 10px;
   }
@@ -213,7 +166,7 @@ header {
   .app-box.mid {
     margin-left: 20px;
   }
-}
+}*/
 
 /* Breakpoint 500px */
 @media screen and (max-width: 500px) {
