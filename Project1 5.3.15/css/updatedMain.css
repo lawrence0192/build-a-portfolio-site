@@ -54,7 +54,6 @@ header {
   text-align: right;
   text-transform: uppercase;
 }
-
 #title {
   font: 18px Lato, Arial, sans-serif;
   font-weight: 300;
@@ -62,6 +61,7 @@ header {
   text-align: right;
   text-transform: uppercase;
 }
+
 /* Featured Work box */
 .featured-work {
   background-color: #535353;
@@ -69,17 +69,20 @@ header {
   width: 100%;
   margin: 20px 0;
 }
+
 .work-title {
   padding: 20px 0 10px 20px;
   font: 24px Lato, Garamond, serif;
   font-weight: 300;
   text-transform: uppercase;
 }
+
 .work-container {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
 }
+
 .app-box {
   float: left;
   width: calc((100% - 80px)/3);
@@ -89,24 +92,29 @@ header {
   text-decoration: none;
   color: #fff;
 }
+
 .work-link:hover {
   color: #555;
 }
 .app-box.left {
   margin-left: 20px;
 }
+
 .app-box.right {
   margin-right: 0;
 }
+
 .app-info {
   margin-top: 10px;
   background-color: #4e6b26;
 }
+
 .app-title {
   font: 18px Lato, Garamond, serif;
   font-weight: bold;
   padding: 10px;
 }
+
 .app-desc {
   padding: 10px;
   margin: 0;
